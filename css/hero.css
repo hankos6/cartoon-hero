@@ -17,6 +17,9 @@ h1,h2 {
 	font-family: 'Electrolize', sans-serif;
 }
 
+/* header styles */
+
+
 header h1{
 	color: white;
 	
@@ -27,6 +30,8 @@ header img{
 	width: 300px;
 	border: 10px solid white;
 }
+
+
 
 main{
 	max-width: 800px;
@@ -41,6 +46,7 @@ max-width: 100%;
 h2{
 	font-size: 30px;
 	color: darkred;
+	margin: 40px 0 10px;
 }
 
 a{
@@ -72,4 +78,6 @@ footer a:hover{
 
 p.caption{
 	color: darkorange;
+	font-style: italic; 
+	margin-top: 0;
 }
